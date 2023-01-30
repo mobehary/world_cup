@@ -24,7 +24,7 @@ include 'includes/header.php';
                         Results</a></span></h2>
         </div>
         <div class="row">
-            <div class="col-sm-12 col-md-8 col-lg-9">
+            <div class="col-sm-12 col-md-8 col-lg-9 wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="0s">
                 <div class="match-result table-responsive">
                     <table class="table table-bordered">
                         <thead class="result-tab">
@@ -64,7 +64,7 @@ include 'includes/header.php';
                     </table>
                 </div>
             </div>
-            <div class="col-sm-12 col-md-4 col-lg-3">
+            <div class="col-sm-12 col-md-4 col-lg-3 wow fadeInRight" data-wow-duration="1.5s" data-wow-delay="0s">
                 <div class="table-responsive">
                     <table class="table table-bordered">
                         <thead class="thead-dark">
@@ -104,7 +104,7 @@ include 'includes/header.php';
     </div>
 </section>
 
-<section class="blog-section">
+<section class="blog-section wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0s">
     <div class="container">
         <div class="section-title">
             <h2 class="home-title text-start">Recent News<span class="more-link float-end"><a href="blog.php">More
@@ -152,7 +152,7 @@ include 'includes/header.php';
 </section>
 
 
-<section class="video-section mb-5">
+<section class="video-section mb-5 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0s">
     <div class="container">
         <div class="section-title">
             <h2 class="home-title text-start">Recent Highlights<span class="more-link float-end"><a

@@ -22,13 +22,13 @@
         <div class="upper-header">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-8 col-7 email-div"><span><i class="fas fa-envelope"></i> mo.elbehairy7@gmail.com</span></div>
+                    <div class="col-lg-8 col-7 email-div wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0s"><span><i class="fas fa-envelope"></i> mo.elbehairy7@gmail.com</span></div>
                     <div class="col-lg-4 col-5 text-end social-list">
                         <ul class="list-unstyled">
-                            <li><a href=""><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href=""><i class="fab fa-twitter"></i></a></li>
-                            <li><a href=""><i class="fab fa-instagram"></i></a></li>
-                            <li><a href=""><i class="fab fa-youtube"></i></a></li>
+                            <li><a href="" class=" wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="" class=" wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.75s"><i class="fab fa-twitter"></i></a></li>
+                            <li><a href="" class=" wow fadeIn" data-wow-duration="1.5s" data-wow-delay="1s"><i class="fab fa-instagram"></i></a></li>
+                            <li><a href="" class=" wow fadeIn" data-wow-duration="1.5s" data-wow-delay="1.25s"><i class="fab fa-youtube"></i></a></li>
                         </ul>
                     </div>
                 </div>

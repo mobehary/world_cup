@@ -18,6 +18,15 @@ $secondary_color: #8A1538;
 }  
 
 body{
+    .countrey-name{
+        font-size: 18px;
+    }
+    .continent-name{
+        font-size: 14px;
+        span{
+            font-size: 14px;
+        }
+    }
     .navbar-toggler{
         background-color: $primary_color;
         .navbar-toggler-icon{
@@ -181,7 +190,7 @@ body{
         }
     }
     .teams{
-        margin-top: 50px;
+        padding: 70px 0px;
         a{
             text-decoration: none;
         }
@@ -196,7 +205,7 @@ body{
         .card{
             margin: 0px 10px 20px;
             .card-header{
-                height: 315px;
+                height: 160px;
                 position: relative;
                 margin-bottom: -1px;
                 .cover-players{
@@ -204,6 +213,7 @@ body{
                     bottom: 0;
                     .team-captain{
                         padding: 0px;
+                        display: none;
                     }
                     img{
                         height: 300px;
@@ -807,6 +817,9 @@ body{
 }
 
 @media(max-width: 550px){
+    .scorrer{
+        font-size: 12px !important;
+    }
     .team-captain{
         display: none;
     }
@@ -884,6 +897,14 @@ body{
         padding: 10px 13px !important;
         font-size: 16px !important;
     }
+
+    .match-result{
+        table{
+            td{
+                font-size: 12px;
+            }
+        }
+    }  
 }
 
 @media(min-width: 800px) and (max-width: 1199px){

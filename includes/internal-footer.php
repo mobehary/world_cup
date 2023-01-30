@@ -5,10 +5,10 @@
                 <img src="../assets/Images/world-cup-2022-logo-1.png" width="50%" height="auto" alt="">
                 <div class="footer-social">
                     <ul class="list-unstyled d-flex">
-                        <li class="social-li wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                        <li class="social-li wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.75s"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                        <li class="social-li wow fadeIn" data-wow-duration="1.5s" data-wow-delay="1s"><a href="#"><i class="fab fa-instagram"></i></a></li>
-                        <li class="social-li wow fadeIn" data-wow-duration="1.5s" data-wow-delay="1.25s"><a href="#"><i class="fab fa-youtube"></i></a></li>
+                        <li class="social-li"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                        <li class="social-li"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                        <li class="social-li"><a href="#"><i class="fab fa-instagram"></i></a></li>
+                        <li class="social-li"><a href="#"><i class="fab fa-youtube"></i></a></li>
                     </ul>
                 </div>
             </div>

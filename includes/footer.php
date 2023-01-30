@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-6 col-md-4 col-lg-3 logo-col">
-                <img src="assets/Images/world-cup-2022-logo-1.png" width="50%" height="auto" alt="">
+                <img src="assets/Images/world-cup-2022-logo-1.png" class="wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="0.5s" width="50%" height="auto" alt="">
                 <div class="footer-social">
                     <ul class="list-unstyled d-flex">
                         <li class="social-li wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -48,7 +48,7 @@
 </div>
 <footer class="text-center">
     <div class="container">
-        <span>All copyrights © reserved to Mohammad Elbehary</span>
+        <span class="wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0s">All copyrights © reserved to Mohammad Elbehary</span>
     </div>
 </footer>
 

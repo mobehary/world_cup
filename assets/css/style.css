@@ -11,6 +11,18 @@
   width: unset !important;
 }
 
+body .countrey-name {
+  font-size: 18px;
+}
+
+body .continent-name {
+  font-size: 14px;
+}
+
+body .continent-name span {
+  font-size: 14px;
+}
+
 body .navbar-toggler {
   background-color: #550065;
 }
@@ -202,7 +214,7 @@ body .squad .goalkeepers-owl {
 }
 
 body .teams {
-  margin-top: 50px;
+  padding: 70px 0px;
 }
 
 body .teams a {
@@ -222,7 +234,7 @@ body .teams .card {
 }
 
 body .teams .card .card-header {
-  height: 315px;
+  height: 160px;
   position: relative;
   margin-bottom: -1px;
 }
@@ -234,6 +246,7 @@ body .teams .card .card-header .cover-players {
 
 body .teams .card .card-header .cover-players .team-captain {
   padding: 0px;
+  display: none;
 }
 
 body .teams .card .card-header .cover-players img {
@@ -940,6 +953,9 @@ body .details-article {
 }
 
 @media (max-width: 550px) {
+  .scorrer {
+    font-size: 12px !important;
+  }
   .team-captain {
     display: none;
   }
@@ -1002,6 +1018,9 @@ body .details-article {
   .hero-link {
     padding: 10px 13px !important;
     font-size: 16px !important;
+  }
+  .match-result table td {
+    font-size: 12px;
   }
 }
 

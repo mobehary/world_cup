@@ -3,7 +3,7 @@
 
 <section class="teams">
     <div class="container">
-        <ul class="nav nav-pills mb-3 justify-content-center tabs-btns" id="pills-tab" role="tablist">
+        <ul class="nav nav-pills mb-3 justify-content-center tabs-btns mb-5" id="pills-tab" role="tablist">
             <li class="nav-item" role="presentation">
                 <button class="nav-link active" id="group-a-tab" data-bs-toggle="pill" data-bs-target="#group-a" type="button" role="tab" aria-controls="v-pills-home" aria-selected="true">Group A</button>
             </li>
@@ -33,7 +33,7 @@
             <div class="tab-pane fade show active" id="group-a" role="tabpanel" aria-labelledby="group-a-tab">
               <div class="team-cards">
                   <div class="row">
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/qatar.php">
                               <div class="card teams-card">
                                   <div class="card-header card-background" style="background-image: url('assets/Images/Flags/qatar.png'); background-repeat: no-repeat; background-size: cover;">
@@ -49,7 +49,7 @@
                               </div>
                           </a>
                       </div>
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/netherlands.php">
                           <div class="card teams-card">
                               <div class="card-header card-background" style="background-image: url('assets/Images/Flags/netherlands.png'); background-repeat: no-repeat; background-size: cover;">
@@ -64,7 +64,7 @@
                               </div>
                           </div></a>
                       </div>
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/senegal.php">
                           <div class="card teams-card">
                               <div class="card-header card-background" style="background-image: url('assets/Images/Flags/Senegal.png'); background-repeat: no-repeat; background-size: cover;">
@@ -79,7 +79,7 @@
                               </div>
                           </div></a>
                       </div>
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/ecuador.php">
                           <div class="card teams-card">
                               <div class="card-header card-background" style="background-image: url('assets/Images/Flags/ecuador.png'); background-repeat: no-repeat; background-size: cover;">
@@ -102,7 +102,7 @@
 
             <div class="tab-pane fade" id="group-b" role="tabpanel" aria-labelledby="group-b-tab"><div class="team-cards">
                   <div class="row">
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/england.php">
                               <div class="card teams-card">
                                   <div class="card-header card-background" style="background-image: url('assets/Images/Flags/england.png'); background-repeat: no-repeat; background-size: cover;">
@@ -118,7 +118,7 @@
                               </div>
                           </a>
                       </div>
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/usa.php">
                           <div class="card teams-card">
                               <div class="card-header card-background" style="background-image: url('assets/Images/Flags/usa.png'); background-repeat: no-repeat; background-size: cover;">
@@ -133,7 +133,7 @@
                               </div>
                           </div></a>
                       </div>
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/iran.php">
                           <div class="card teams-card">
                               <div class="card-header card-background" style="background-image: url('assets/Images/Flags/iran.png'); background-repeat: no-repeat; background-size: cover;">
@@ -148,7 +148,7 @@
                               </div>
                           </div></a>
                       </div>
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/wales.php">
                           <div class="card teams-card">
                               <div class="card-header card-background" style="background-image: url('assets/Images/Flags/wales.png'); background-repeat: no-repeat; background-size: cover;">
@@ -170,7 +170,7 @@
 
             <div class="tab-pane fade" id="group-c" role="tabpanel" aria-labelledby="group-c-tab"><div class="team-cards">
                   <div class="row">
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/argentina.php">
                               <div class="card teams-card">
                                   <div class="card-header card-background" style="background-image: url('assets/Images/Flags/argentina.png'); background-repeat: no-repeat; background-size: cover;">
@@ -186,7 +186,7 @@
                               </div>
                           </a>
                       </div>
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/mexico.php">
                           <div class="card teams-card">
                               <div class="card-header card-background" style="background-image: url('assets/Images/Flags/mexico.png'); background-repeat: no-repeat; background-size: cover;">
@@ -201,7 +201,7 @@
                               </div>
                           </div></a>
                       </div>
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/poland.php">
                           <div class="card teams-card">
                               <div class="card-header card-background" style="background-image: url('assets/Images/Flags/poland.png'); background-repeat: no-repeat; background-size: cover;">
@@ -216,7 +216,7 @@
                               </div>
                           </div></a>
                       </div>
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/ksa.php">
                           <div class="card teams-card">
                               <div class="card-header card-background" style="background-image: url('assets/Images/Flags/ksa.png'); background-repeat: no-repeat; background-size: cover;">
@@ -238,7 +238,7 @@
 
             <div class="tab-pane fade" id="group-d" role="tabpanel" aria-labelledby="group-d-tab"><div class="team-cards">
                   <div class="row">
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/france.php">
                               <div class="card teams-card">
                                   <div class="card-header card-background" style="background-image: url('assets/Images/Flags/france.png'); background-repeat: no-repeat; background-size: cover;">
@@ -254,7 +254,7 @@
                               </div>
                           </a>
                       </div>
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/denmark.php">
                           <div class="card teams-card">
                               <div class="card-header card-background" style="background-image: url('assets/Images/Flags/denmark.png'); background-repeat: no-repeat; background-size: cover;">
@@ -269,7 +269,7 @@
                               </div>
                           </div></a>
                       </div>
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/tunisia.php">
                           <div class="card teams-card">
                               <div class="card-header card-background" style="background-image: url('assets/Images/Flags/tunisia.png'); background-repeat: no-repeat; background-size: cover;">
@@ -284,7 +284,7 @@
                               </div>
                           </div></a>
                       </div>
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/australia.php">
                           <div class="card teams-card">
                               <div class="card-header card-background" style="background-image: url('assets/Images/Flags/australia.png'); background-repeat: no-repeat; background-size: cover;">
@@ -306,7 +306,7 @@
 
             <div class="tab-pane fade" id="group-e" role="tabpanel" aria-labelledby="group-e-tab"><div class="team-cards">
                   <div class="row">
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/spain.php">
                               <div class="card teams-card">
                                   <div class="card-header card-background" style="background-image: url('assets/Images/Flags/spain.png'); background-repeat: no-repeat; background-size: cover;">
@@ -322,7 +322,7 @@
                               </div>
                           </a>
                       </div>
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/germany.php">
                           <div class="card teams-card">
                               <div class="card-header card-background" style="background-image: url('assets/Images/Flags/germany.png'); background-repeat: no-repeat; background-size: cover;">
@@ -337,7 +337,7 @@
                               </div>
                           </div></a>
                       </div>
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/japan.php">
                           <div class="card teams-card">
                               <div class="card-header card-background" style="background-image: url('assets/Images/Flags/japan.png'); background-repeat: no-repeat; background-size: cover;">
@@ -352,7 +352,7 @@
                               </div>
                           </div></a>
                       </div>
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/costa_rica.php">
                           <div class="card teams-card">
                               <div class="card-header card-background" style="background-image: url('assets/Images/Flags/costa\ rica.png'); background-repeat: no-repeat; background-size: cover;">
@@ -373,7 +373,7 @@
 
             <div class="tab-pane fade" id="group-f" role="tabpanel" aria-labelledby="group-f-tab"><div class="team-cards">
                   <div class="row">
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/belgium.php">
                               <div class="card teams-card">
                                   <div class="card-header card-background" style="background-image: url('assets/Images/Flags/belgium.png'); background-repeat: no-repeat; background-size: cover;">
@@ -389,7 +389,7 @@
                               </div>
                           </a>
                       </div>
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/croatia.php">
                           <div class="card teams-card">
                               <div class="card-header card-background" style="background-image: url('assets/Images/Flags/Croatia.png'); background-repeat: no-repeat; background-size: cover;">
@@ -404,7 +404,7 @@
                               </div>
                           </div></a>
                       </div>
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/morocco.php">
                           <div class="card teams-card">
                               <div class="card-header card-background" style="background-image: url('assets/Images/Flags/morocco.png'); background-repeat: no-repeat; background-size: cover;">
@@ -419,7 +419,7 @@
                               </div>
                           </div></a>
                       </div>
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/canada.php">
                           <div class="card teams-card">
                               <div class="card-header card-background" style="background-image: url('assets/Images/Flags/canada.png'); background-repeat: no-repeat; background-size: cover;">
@@ -440,7 +440,7 @@
 
             <div class="tab-pane fade" id="group-g" role="tabpanel" aria-labelledby="group-g-tab"><div class="team-cards">
                   <div class="row">
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/brazil.php">
                               <div class="card teams-card">
                                   <div class="card-header card-background" style="background-image: url('assets/Images/Flags/brazil.png'); background-repeat: no-repeat; background-size: cover;">
@@ -456,7 +456,7 @@
                               </div>
                           </a>
                       </div>
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/switzerland.php">
                           <div class="card teams-card">
                               <div class="card-header card-background" style="background-image: url('assets/Images/Flags/switzerland.png'); background-repeat: no-repeat; background-size: cover;">
@@ -471,7 +471,7 @@
                               </div>
                           </div></a>
                       </div>
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/serbia.php">
                           <div class="card teams-card">
                               <div class="card-header card-background" style="background-image: url('assets/Images/Flags/Serbia.png'); background-repeat: no-repeat; background-size: cover;">
@@ -486,7 +486,7 @@
                               </div>
                           </div></a>
                       </div>
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/cameroon.php">
                           <div class="card teams-card">
                               <div class="card-header card-background" style="background-image: url('assets/Images/Flags/cameroon.png'); background-repeat: no-repeat; background-size: cover;">
@@ -508,7 +508,7 @@
 
             <div class="tab-pane fade" id="group-h" role="tabpanel" aria-labelledby="group-h-tab"><div class="team-cards">
                   <div class="row">
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/portugal.php">
                               <div class="card teams-card">
                                   <div class="card-header card-background" style="background-image: url('assets/Images/Flags/portugal.png'); background-repeat: no-repeat; background-size: cover;">
@@ -524,7 +524,7 @@
                               </div>
                           </a>
                       </div>
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/uruguay.php">
                           <div class="card teams-card">
                               <div class="card-header card-background" style="background-image: url('assets/Images/Flags/uruguay.png'); background-repeat: no-repeat; background-size: cover;">
@@ -539,7 +539,7 @@
                               </div>
                           </div></a>
                       </div>
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/south_korea.php">
                           <div class="card teams-card">
                               <div class="card-header card-background" style="background-image: url('assets/Images/Flags/South\ Korea.png'); background-repeat: no-repeat; background-size: cover;">
@@ -554,7 +554,7 @@
                               </div>
                           </div></a>
                       </div>
-                      <div class="col-sm-12 col-md-6 col-lg-6">
+                      <div class="col-sm-12 col-md-6 col-lg-3">
                           <a href="teams/ghana.php">
                           <div class="card teams-card">
                               <div class="card-header card-background" style="background-image: url('assets/Images/Flags/ghana.png'); background-repeat: no-repeat; background-size: cover;">
